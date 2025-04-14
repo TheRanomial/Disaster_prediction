@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+nltk
+matplotlib
+seaborn
+wordcloud
+tqdm
+streamlit
+pickle-mixin
+setuptools
+wheel
+seaborn
